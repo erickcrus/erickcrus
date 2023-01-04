@@ -36,11 +36,3 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/erickcrus/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-## My stats
-
-<div>
-  <a href="https://github.com/erickcrus">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickcrus&show_icons=true&theme=react&count_private=true" />
-  </a
-</div>
